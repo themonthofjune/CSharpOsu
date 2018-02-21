@@ -1,0 +1,9 @@
+C:\Users\REIMU\source\repos\CSharpOsu\CSharpOsu\bin\Release\CSharpOsu.dll
+C:\Users\REIMU\source\repos\CSharpOsu\CSharpOsu\bin\Release\CSharpOsu.pdb
+C:\Users\REIMU\source\repos\CSharpOsu\CSharpOsu\bin\Release\Newtonsoft.Json.dll
+C:\Users\REIMU\source\repos\CSharpOsu\CSharpOsu\obj\Release\net40\CSharpOsu.csproj.CoreCompileInputs.cache
+C:\Users\REIMU\source\repos\CSharpOsu\CSharpOsu\obj\Release\net40\CSharpOsu.AssemblyInfoInputs.cache
+C:\Users\REIMU\source\repos\CSharpOsu\CSharpOsu\obj\Release\net40\CSharpOsu.AssemblyInfo.cs
+C:\Users\REIMU\source\repos\CSharpOsu\CSharpOsu\obj\Release\net40\CSharpOsu.dll
+C:\Users\REIMU\source\repos\CSharpOsu\CSharpOsu\obj\Release\net40\CSharpOsu.pdb
+C:\Users\REIMU\source\repos\CSharpOsu\CSharpOsu\obj\Release\net40\CSharpOsu.csprojResolveAssemblyReference.cache

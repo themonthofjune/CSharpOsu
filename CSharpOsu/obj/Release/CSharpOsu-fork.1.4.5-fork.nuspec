@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CSharpOsu-fork</id>
+    <version>1.4.5-fork</version>
+    <authors>CSharpOsu</authors>
+    <owners>CSharpOsu</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="Newtonsoft.Json" version="11.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="C:\Users\REIMU\source\repos\CSharpOsu\CSharpOsu\bin\Release\CSharpOsu.dll" target="lib\net40\CSharpOsu.dll" />
+  </files>
+</package>
